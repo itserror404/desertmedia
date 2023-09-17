@@ -1,5 +1,5 @@
 # Exercise 1 - Rgb Hello World 
-### Seasons through a Tree
+## Seasons through a Tree
 
 **Concept:**
 
