@@ -1,4 +1,4 @@
-# Exercise 1 - Rgb Hello World 
+### Exercise 1 - Rgb Hello World 
 # Seasons through a Tree
 
 **Concept:**
