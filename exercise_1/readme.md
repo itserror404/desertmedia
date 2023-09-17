@@ -6,7 +6,7 @@
 Since the exercise is about demonstrating a story with just one pixel, my plan was to depict a cycle of some sort. Initially, my idea was to showcase the phases of the moon using shadow (by placing a cardboard cutout) and adjusting brightness. However, I soon realized that it's more about the position of the LED than the shadow.
 Then, I came up with the idea of portraying the seasonal changes in tree leaves, with spring, summer, autumn, and winter seasons. The colours I used were as follows:
 
-Spring: Bright pink (cherry blossom; light pink was too faint)
+- Spring: Bright pink (cherry blossom; light pink was too faint)
 
 Summer: Bright green
 
